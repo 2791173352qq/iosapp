@@ -19,7 +19,7 @@
                     <key>needs-shine</key>  
                     <true/>  
                     <key>url</key>  
-                    <string>http://47.105.97.168/Download/Phone/Icon/Icon512.png</string>  
+                    <string>http://47.105.97.168:8081/Download/Phone/Icon/Icon512.png</string>  
                 </dict>  
                 <dict>  
                     <key>kind</key>  
@@ -27,7 +27,7 @@
                     <key>needs-shine</key>
                     <true/>  
                     <key>url</key>  
-                    <string>http://47.105.97.168/Download/Phone/Icon/Icon57.png</string>  
+                    <string>http://47.105.97.168:8081/Download/Phone/Icon/Icon57.png</string>  
                 </dict>  
             </array>  
             <key>metadata</key>  
